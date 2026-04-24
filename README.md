@@ -44,6 +44,8 @@ To analyze survey data and build an interactive dashboard that helps understand:
 ## 📊 Dashboard Preview
 ![Dashboard](images/powerbi_dashboard.png)
 
+---
+
 🔗 **Live Dashboard:**  
 👉 https://app.powerbi.com/links/XtnfDRj8Jw?ctid=36267bd2-9d09-4598-a33d-71dbb1296db4&pbi_source=linkShare  
 
